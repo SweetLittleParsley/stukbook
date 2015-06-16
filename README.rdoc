@@ -1,5 +1,3 @@
 == Stukbook
 
 This is a cool coding social network.
-
-editing this file
